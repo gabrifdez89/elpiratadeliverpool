@@ -316,3 +316,9 @@ a:hover { text-decoration: underline; }
 .site-footer-owner { display: block; font-weight: bold; }
 
 .site-footer-credits { color: #819198; }
+
+body { background-color: #ffffff; }
+
+.page-header { color: #fff; text-align: center; background-color: #159957; background-image: linear-gradient(120deg, #00BAE5, #878787); }
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 { margin-top: 2rem; margin-bottom: 1rem; font-weight: normal; color: #00BAE5; }
